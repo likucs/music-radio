@@ -59,7 +59,7 @@
     },
     "STREAM_URL": {
       "description": "URL of Radio station or Youtube live video url to stream with /radio command",
-      "value": "https://youtu.be/zcrUCvBD16k",
+      "value": "https://radioindia.net/radio/hungamanow/icecast.audio",
       "required": false
     },
     "REPLY_MESSAGE": {
